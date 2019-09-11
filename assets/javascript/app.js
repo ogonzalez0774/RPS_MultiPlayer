@@ -54,7 +54,6 @@ player1.on(
       if (p1 !== null) {
         playerChat.push({
           player: p1,
-          taunt: " has disconnected",
           dateAdded: firebase.database.ServerValue.TIMESTAMP
         });
       }
@@ -82,7 +81,6 @@ player2.on(
       if (p2 !== null) {
         playerChat.push({
           player: p2,
-          taunt: " has disconnected",
           dateAdded: firebase.database.ServerValue.TIMESTAMP
         });
       }
