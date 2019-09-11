@@ -198,4 +198,4 @@ var rpsResults = function() {
       console.log("The read failed: " + errorObject.code);
     }
   );
-  
+};
