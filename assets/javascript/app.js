@@ -1,6 +1,6 @@
 // Initialize Firebase
 var config = {
-  apiKey: "AIzaSyD3M9BXAuU8pADnXXIqKBZ5uJFm5cYZ7Zg",
+  apiKey: "",
   authDomain: "rpsgamehomework1.firebaseapp.com",
   databaseURL: "https://rpsgamehomework1.firebaseio.com/",
   projectId: "rpsgamehomework",
